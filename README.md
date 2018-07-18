@@ -14,7 +14,7 @@ Example:
 ```
 <template>
     <vue-csv-downloader
-        :items="items"
+        :data="items"
         :fields="fields"
     >
     </vue-csv-downloader>
